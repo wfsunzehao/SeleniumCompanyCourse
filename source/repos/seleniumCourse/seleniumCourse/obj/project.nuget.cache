@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "pizHs6o4dsXphUNMcEUn5HVdsxooq7IuiConPo9Fo7ihHgGs1tFyH3gww4+9ljrfNuLN1c55OtB3EVGm2JxCOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\seleniumCourse\\seleniumCourse\\seleniumCourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\openqa.selenium.winium\\1.0.0.4\\openqa.selenium.winium.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "检测到的包版本在依赖项约束之外: OpenQA.Selenium.Winium 1.0.0.4 需要 Selenium.WebDriver (= 3.141.0)，但版本 Selenium.WebDriver 4.18.1 已解决。",
+      "libraryId": "Selenium.WebDriver",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0”还原包“OpenQA.Selenium.Winium 1.0.0.4”。此包可能与项目不完全兼容。",
+      "libraryId": "OpenQA.Selenium.Winium",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

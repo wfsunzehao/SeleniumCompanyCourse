@@ -124,11 +124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\seleniumCourse\\seleniumCourse\\seleniumCourse.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\Github\\seleniumCourse\\source\\repos\\seleniumCourse\\seleniumCourse\\seleniumCourse.csproj",
       "projectName": "seleniumCourse",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\seleniumCourse\\seleniumCourse\\seleniumCourse.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\Github\\seleniumCourse\\source\\repos\\seleniumCourse\\seleniumCourse\\seleniumCourse.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\seleniumCourse\\seleniumCourse\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\Github\\seleniumCourse\\source\\repos\\seleniumCourse\\seleniumCourse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

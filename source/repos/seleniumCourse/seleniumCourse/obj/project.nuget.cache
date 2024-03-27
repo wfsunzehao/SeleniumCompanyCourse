@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pizHs6o4dsXphUNMcEUn5HVdsxooq7IuiConPo9Fo7ihHgGs1tFyH3gww4+9ljrfNuLN1c55OtB3EVGm2JxCOA==",
+  "dgSpecHash": "Us2dGb6nEsvQFj1mhud1zHlC+fBI0NCaeRviSg2qOTAbgR7ZXfq1HKxmpdUSqZJTK1hjv9oUZbV4bYRYcdAc4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\seleniumCourse\\seleniumCourse\\seleniumCourse.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\Github\\seleniumCourse\\source\\repos\\seleniumCourse\\seleniumCourse\\seleniumCourse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\openqa.selenium.winium\\1.0.0.4\\openqa.selenium.winium.1.0.0.4.nupkg.sha512",

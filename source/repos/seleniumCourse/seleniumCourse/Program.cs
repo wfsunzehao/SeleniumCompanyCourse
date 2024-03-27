@@ -29,8 +29,9 @@ class Program
 
         Thread.Sleep(5000);
         driver.FindElement(By.XPath("/html/body/div[1]/div[3]/div/div[1]/ul/li[3]/a")).Click();
-        // 等待30秒这个过程中选择课程进入播放器
-        Thread.Sleep(30000);
+        // 等待选择视频
+        Console.WriteLine("请选择要观看的视频，当跳出视频界面后按任意键继续。");
+        Console.ReadLine();
 
         Console.WriteLine(driver.WindowHandles[1]);
         IWebDriver driver2 = driver;
@@ -107,7 +108,6 @@ class Program
                     Thread.Sleep(5000);
                     continue;
                 }
-                Thread.Sleep(7000);
 
             }
            
